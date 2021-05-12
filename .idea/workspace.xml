@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d43e29ed-ff1c-4606-b177-ae9b61e204e2" name="Default Changelist" comment="" />
+    <list default="true" id="d43e29ed-ff1c-4606-b177-ae9b61e204e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="9b2da4e4-b17b-4625-a301-51f0e9c87362" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -49,26 +55,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620824766138</updated>
-      <workItem from="1620824767172" duration="6540000" />
+      <workItem from="1620824767172" duration="7174000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1620832011544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620832011544</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620824878042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620824878042" />
-    <state x="583" y="15" key="CommitChangelistDialog2" timestamp="1620831915128">
+    <state x="583" y="15" key="CommitChangelistDialog2" timestamp="1620832009530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="583" y="15" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1620831915128" />
+    <state x="583" y="15" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1620832009530" />
+    <state x="818" y="431" key="Github.Dialog.Accounts.Choose" timestamp="1620832045418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="431" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1620832045418" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1620831977065">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1620831977065" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1620832039431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1620832039431" />
     <state x="184" y="129" width="583" height="584" key="find.popup" timestamp="1620831369688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
