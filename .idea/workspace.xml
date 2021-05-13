@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d43e29ed-ff1c-4606-b177-ae9b61e204e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620824766138</updated>
-      <workItem from="1620824767172" duration="7174000" />
+      <workItem from="1620824767172" duration="7361000" />
+      <workItem from="1620902541649" duration="2796000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1620832011544</created>
@@ -64,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620832011544</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first">
+      <created>1620832665440</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620832665440</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,10 +90,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620824878042" />
-    <state x="583" y="15" key="CommitChangelistDialog2" timestamp="1620832009530">
+    <state x="583" y="12" key="CommitChangelistDialog2" timestamp="1620832663784">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="583" y="15" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1620832009530" />
+    <state x="583" y="12" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1620832663784" />
     <state x="818" y="431" key="Github.Dialog.Accounts.Choose" timestamp="1620832045418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -93,10 +102,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1620831977065" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1620832039431">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1620832667351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1620832039431" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1620832667351" />
     <state x="184" y="129" width="583" height="584" key="find.popup" timestamp="1620831369688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

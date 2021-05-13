@@ -9648,3 +9648,37 @@ textarea.form-control {
 .best-models{
   margin-top: 50px;
 }
+
+
+
+
+
+
+
+#button-up {
+  display: inline-block;
+  opacity: 0;
+  background-color: #cd866c;
+  width: 45px;
+  height: 45px;
+  text-align: center;
+  border-radius: 4px;
+  margin: 30px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: .3s;
+  z-index: 1000;
+  font-size: 22px;
+  color: #fff;
+}
+#button-up:hover {
+  cursor: pointer;
+  background-color: #8f553f;
+}
+#button-up:active {
+  background-color: #7c412a;
+}
+.show{
+  opacity: 1 !important;
+}
